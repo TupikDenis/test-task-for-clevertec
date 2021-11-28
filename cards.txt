@@ -1,0 +1,9 @@
+Number-1234
+Customer name-Tupik Dzianis
+-------------------------------------
+Number-4832
+Customer name-Ivanov Ivan
+-------------------------------------
+Number-7788
+Customer name-Denisov Denis
+-------------------------------------
